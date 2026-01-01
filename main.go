@@ -7,5 +7,6 @@ func main() {
 
 	// dataType()
 	// conversion()
-	array()
+	// array()
+	slice()
 }
