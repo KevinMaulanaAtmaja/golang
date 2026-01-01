@@ -8,5 +8,6 @@ func main() {
 	// dataType()
 	// conversion()
 	// array()
-	slice()
+	// slice()
+	maps()
 }
