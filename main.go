@@ -6,5 +6,6 @@ func main()  {
 	fmt.Println("hello world!")
 
 	// dataType()
-	conversion()
+	// conversion()
+	array()
 }
