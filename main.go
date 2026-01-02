@@ -9,5 +9,6 @@ func main() {
 	// conversion()
 	// array()
 	// slice()
-	maps()
+	// maps()
+	math()
 }
