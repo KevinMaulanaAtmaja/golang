@@ -1,8 +1,8 @@
-package main
+package week2
 
 import "fmt"
 
-func conditionals() {
+func Conditionals() {
 	fmt.Println("=============CONDITIONALS=============")
 	// salah satu cara utk buat program ambil keputusan brdsrkan logika (benar/salah)
 	// jika benar blok kode if jalan, jika false blok kode tersbt masuk ke else

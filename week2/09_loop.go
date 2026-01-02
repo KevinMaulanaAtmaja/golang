@@ -1,8 +1,8 @@
-package main
+package week2
 
 import "fmt"
 
-func loop() {
+func Loop() {
 	fmt.Println("=============LOOP=============")
 	// for satu-satunya loop yg tersedia
 	// penggunaannya fleksibel bisa gantikan while/do while

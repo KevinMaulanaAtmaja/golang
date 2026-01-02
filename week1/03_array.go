@@ -1,8 +1,8 @@
-package main
+package week1
 
 import "fmt"
 
-func array() {
+func Array() {
 	fmt.Println("=============ARRAY=============")
 	// kumpulan data dg ukuran ttap dan tipe data yg sama
 	// exp: 12 telur g bisa ditmbh/dikurangi

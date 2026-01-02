@@ -1,11 +1,11 @@
-package main
+package week1
 
 import (
 	"fmt"
 	"strings"
 )
 
-func dataType() {
+func DataType() {
 	fmt.Println("=============VARIABLE=============")
 	// variable => wadah/kotak utk simpan data
 	// cara klasik: sebutkan tipe datanya

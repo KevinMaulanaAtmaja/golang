@@ -1,8 +1,8 @@
-package main
+package week1
 
 import "fmt"
 
-func maps() {
+func Maps() {
 	fmt.Println("=============MAP=============")
 	// map=> stuktur data utk simpan psangan key-value
 	// ibarat-> kamus, cari kata(key), utk dpt artinya(value)

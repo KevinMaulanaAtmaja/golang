@@ -1,11 +1,11 @@
-package main
+package week1
 
 import (
 	"fmt"
 	"strconv"
 )
 
-func conversion() {
+func Conversion() {
 	fmt.Println("=============INT TO FLOAT=============")
 	// utk ubah tipe data ke tipe lain, strig => int
 	// harus eksplisit utk menentukan tipe data tujuan

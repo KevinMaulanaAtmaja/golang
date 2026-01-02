@@ -1,8 +1,8 @@
-package main
+package week1
 
 import "fmt"
 
-func slice() {
+func Slice() {
 	fmt.Println("============SLICE==============")
 	// slice=> array yg bisa ditmbh/dikurangi, ukuran bisa berubah
 	// komponen => pointer, length, dan capacity

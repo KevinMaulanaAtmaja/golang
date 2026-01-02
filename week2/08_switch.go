@@ -1,8 +1,8 @@
-package main
+package week2
 
 import "fmt"
 
-func switchs() {
+func Switchs() {
 	fmt.Println("=============SWITCH=============")
 	// cocok utk cek nilai dari satu variable dg bnyk kasus
 	// otomatis break, pake fallthrough utk lanjut ke case lain

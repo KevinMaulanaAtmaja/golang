@@ -1,8 +1,8 @@
-package main
+package week2
 
 import "fmt"
 
-func functions() {
+func Functions() {
 	fmt.Println("=============FUNCTION=============")
 	// blok kode utk jalankan tugas trtentu
 	// utk hindari duplikasi kode, lbih terstruktur, mudah dibaca dan dipelihara

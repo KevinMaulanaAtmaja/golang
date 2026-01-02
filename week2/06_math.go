@@ -1,8 +1,8 @@
-package main
+package week2
 
 import "fmt"
 
-func math() {
+func Math() {
 	fmt.Println("==============ARITHMETIC OPERATORS============")
 	// operasi dasar utk lakukan perhitungan pda angka
 	// bisa di tipe data numerik-> int, float32, float64
