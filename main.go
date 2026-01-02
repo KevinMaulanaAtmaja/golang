@@ -10,5 +10,6 @@ func main() {
 	// array()
 	// slice()
 	// maps()
-	math()
+	// math()
+	conditionals()
 }
