@@ -42,4 +42,41 @@ func math() {
 	fmt.Println(y)
 	y--
 	fmt.Println(y)
+
+	fmt.Println("==============COMPARISON OPERATORS============")
+	// utk bandingkan dua nilai dan hasilnya selalu bool (true/false)
+	// bisa utk tipe data numerik, string, dan bool
+	// tdk bisa utk slice, map, function
+	// sering dipake di kondisional cth if-else, switch
+	// ==, !=, >, <, >=, <=
+
+	var angka1, angka2 int
+	// input dari user
+	fmt.Println("Masukkan angka pertama:")
+	fmt.Scanln(&angka1)
+	fmt.Println("Masukkan angka kedua:")
+	fmt.Scanln(&angka2)
+
+	fmt.Println("\n<==== Hasil Perbandingan ====>")
+	// %d-> placeholder/string format utk int (decimal)
+	// %v-> hasil dari nilai apapun (generic)
+	fmt.Printf("%d == %d ? %v\n", angka1, angka2, angka1 == angka2)
+	fmt.Printf("%d != %d ? %v\n", angka1, angka2, angka1 != angka2)
+	fmt.Printf("%d > %d ? %v\n", angka1, angka2, angka1 > angka2)
+	fmt.Printf("%d < %d ? %v\n", angka1, angka2, angka1 < angka2)
+	fmt.Printf("%d >= %d ? %v\n", angka1, angka2, angka1 < angka2)
+	fmt.Printf("%d <= %d ? %v\n", angka1, angka2, angka1 < angka2)
+
+	fmt.Println("==============LOGIC OPERATORS============")
+	// utk gabungkan 2/lebih ekspresi boolean (benar/salah)
+	// biasanya pake if, for dll
+	// &&-> AND, ||-> OR, !-> NOT
+	fmt.Println("AND: ", (5 > 3) && (8 > 6)) //true
+	fmt.Println("AND: ", (5 > 3) && (8 < 6)) //false
+
+	fmt.Println("OR: ", (5 > 3) || (8 < 6)) //true
+	fmt.Println("OR: ", (5 < 3) || (8 < 6)) //false
+
+	fmt.Println("NOT: ", !(5 > 3)) //false
+	fmt.Println("NOT: ", !(5 < 3)) //true
 }
