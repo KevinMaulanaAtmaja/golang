@@ -11,5 +11,6 @@ func main() {
 	// slice()
 	// maps()
 	// math()
-	conditionals()
+	// conditionals()
+	switchs()
 }

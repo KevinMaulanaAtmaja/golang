@@ -44,8 +44,8 @@ func conditionals() {
 		fmt.Println("x tidak lebih besar dari 5")
 	}
 
-	fmt.Println("==========================")
-	//
+	fmt.Println("=============EXAMPLE=============")
+	// example
 	var nilai int
 	fmt.Print("Masukkan nilai ujian:")
 	fmt.Scanln(&nilai)
