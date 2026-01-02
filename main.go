@@ -12,5 +12,6 @@ func main() {
 	// maps()
 	// math()
 	// conditionals()
-	switchs()
+	// switchs()
+	loop()
 }
