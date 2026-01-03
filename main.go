@@ -26,5 +26,6 @@ func main() {
 	// defpanrec.Recoverys()
 	// defpanrec.Defpanrec()
 	// week3.Structs()
-	week3.Pointers()
+	// week3.Pointers()
+	week3.Times()
 }
