@@ -4,7 +4,8 @@ import (
 	"fmt"
 	// "golang-dasar/week1"
 	// "golang-dasar/week2"
-	"golang-dasar/week2/defpanrec"
+	// "golang-dasar/week2/defpanrec"
+	"golang-dasar/week3"
 )
 
 func main() {
@@ -23,5 +24,6 @@ func main() {
 	// defpanrec.Defers()
 	// defpanrec.Panics()
 	// defpanrec.Recoverys()
-	defpanrec.Defpanrec()
+	// defpanrec.Defpanrec()
+	week3.Structs()
 }
