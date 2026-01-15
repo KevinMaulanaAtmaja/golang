@@ -13,5 +13,6 @@ func main() {
 	// math()
 	// conditionals()
 	// switchs()
-	loop()
+	// loop()
+	functions()
 }
